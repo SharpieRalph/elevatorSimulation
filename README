@@ -1,3 +1,35 @@
-I chose to design my assignment that way because I think it would be best to have 2 panels: one representing normally what oustide the elevator and when you decide to enter the elevator, that is when you will see the actual (similar) elevator panel.
+# Elevator Simulation Project
 
-Before pressing buttons for calling the elevator, please assign a value to both elevators and which floor you would like the passenger to start off with and press the start button.
+## Overview
+This project is an elevator simulation developed using Qt Creator and C++ as an assignment for an Object Oriented Software Engineering class.
+It aims to simulate the working of an elevator system in a building, showcasing the elevator's movement between floors, handling user requests, and displaying the current status of the elevator.
+
+
+## Features
+- Simulate multiple elevators
+- User interface to interact with the elevators
+- Real-time display of elevator status
+
+# Demo
+Watch the demo of the elevator simulation on YouTube: [YouTube Demo Link](https://www.youtube.com/watch?v=example)
+
+## Getting Started
+
+### Prerequisites
+- Qt Creator
+- C++ Compiler (compatible with Qt)
+- Git (optional, for cloning the repository)
+
+### Installation
+1. **Clone the repository (if using Git):**
+2.*Open the Project in Qt Creator:**
+- Launch Qt Creator.
+- Go to `File > Open File or Project...`
+- Navigate to the cloned directory and open the `.pro` file.
+
+3. **Build the Project:**
+- Use the build options in Qt Creator to compile the project.
+
+4. **Run the Simulation:**
+- Execute the project within Qt Creator to start the simulation.
+
